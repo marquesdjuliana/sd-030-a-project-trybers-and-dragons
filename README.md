@@ -46,20 +46,20 @@ Use o Docker Compose para executar o serviço Node.js. Certifique-se de estar no
 docker-compose up -d
 ```
 4. Acessando o Container:
-<br>
+
 Depois de iniciar o contêiner, você pode acessá-lo via linha de comando ou por meio do Visual Studio Code. Use o seguinte comando para acessar o terminal interativo do contêiner:
 ```sh
 docker exec -it trybers_and_dragons bash
 ```
 5. Instalando Dependências:
-6. <br>
+   
 Se houver dependências a serem instaladas, você pode fazê-lo dentro do contêiner. Navegue até o diretório do projeto e execute:
 ```sh
 npm install
 ```
 <br>
 
-**# :construction: README em construção! :construction:**
+
 Sinta-se à vontade para explorar este projeto, acompanhar meu crescimento e contribuir, se desejar. Se você tiver alguma sugestão, feedback ou quiser trocar conhecimentos, será um prazer conectar com você no LinkedIn!
 
 
