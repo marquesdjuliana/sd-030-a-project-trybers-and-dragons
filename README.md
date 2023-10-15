@@ -3,7 +3,6 @@
 
 Este projeto fez parte das avaliações do módulo de Backend da Trybe, foi aplicado os princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game).
 
-## Funcionalidades
 
 ## Funcionalidades
 
@@ -56,7 +55,7 @@ Se houver dependências a serem instaladas, você pode fazê-lo dentro do contê
 ```sh
 npm install
 ```
-
+<br>
 
 **# :construction: README em construção! :construction:**
 Sinta-se à vontade para explorar este projeto, acompanhar meu crescimento e contribuir, se desejar. Se você tiver alguma sugestão, feedback ou quiser trocar conhecimentos, será um prazer conectar com você no LinkedIn!
