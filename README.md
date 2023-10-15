@@ -1,5 +1,5 @@
 
-**Olá, olá!** Bem-vinda(o) ao repositório do projeto **Trybe and Dragons** !
+**Olá, olá!** Bem-vinda(o) ao repositório do projeto **Trybers and Dragons** !
 
 Este projeto fez parte das avaliações do módulo de Backend da Trybe, foi aplicado os princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game).
 
@@ -46,11 +46,13 @@ Use o Docker Compose para executar o serviço Node.js. Certifique-se de estar no
 docker-compose up -d
 ```
 4. Acessando o Container:
+<br>
 Depois de iniciar o contêiner, você pode acessá-lo via linha de comando ou por meio do Visual Studio Code. Use o seguinte comando para acessar o terminal interativo do contêiner:
 ```sh
 docker exec -it trybers_and_dragons bash
 ```
 5. Instalando Dependências:
+6. <br>
 Se houver dependências a serem instaladas, você pode fazê-lo dentro do contêiner. Navegue até o diretório do projeto e execute:
 ```sh
 npm install
